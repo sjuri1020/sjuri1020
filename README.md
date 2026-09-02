@@ -74,5 +74,5 @@ YOLO · ByteTrack 기반 객체 추적 프로젝트
 
 ## 🔗 Links
 
-- Portfolio : https://fluttering-pressure-8a6.notion.site/Software-Developer-Portfolio-f72c9046286683c2be7501ced09e184a?pvs=143
+- Portfolio : [https://fluttering-pressure-8a6.notion.site/Software-Developer-Portfolio-f72c9046286683c2be7501ced09e184a?pvs=143](https://fluttering-pressure-8a6.notion.site/Software-Developer-Portfolio-f72c9046286683c2be7501ced09e184a?pvs=143)
 - Email : jjuri1020@gmail.com
